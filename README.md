@@ -16,7 +16,7 @@ En esta semana, recibirás una introducción al campo de la ciencia de datos. Re
 
 Durante esta semana del curso, aprenderás los fundamentos de una de las herramientas más importantes de Python para la limpieza y procesamiento de datos: pandas. Descubrirás cómo leer datos en estructuras de DataFrame, cómo realizar consultas en estas estructuras y detalles sobre cómo se indexan.
 
-### [Semana 3: Más Procesamiento de Datos con Pandas](Semana%203/)
+### [Semana 3: Más Procesamiento de Datos con Pandas](Semana_3/)
 
 En esta semana, profundizarás tu comprensión de la biblioteca pandas de Python al aprender a fusionar DataFrames, generar tablas resumen, agrupar datos en piezas lógicas y manipular fechas. También repasaremos la comprensión de las escalas de datos y discutiremos problemas al crear métricas para el análisis. La semana concluirá con una tarea de programación más significativa.
 
