@@ -2,11 +2,9 @@
 
 ![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png)
 
-![Badge de Coursera](https://img.shields.io/badge/Coursera-Enlace%20al%20Curso-blue)
+[![Badge de Coursera](https://img.shields.io/badge/Coursera-Enlace%20al%20Curso-blue)](https://www.coursera.org/learn/python-data-analysis/)
 
 ¡Bienvenido al Curso de Análisis de Datos con Python! Este repositorio es una recopilacion de los archivos traducidos y explicados en español, del curso disponible en Coursera, te proporcionará las habilidades fundamentales necesarias para manipular datos utilizando Python.
-
-## [Enlace al Curso en Coursera](https://www.coursera.org/learn/python-data-analysis/)
 
 ## Contenido del Curso
 
